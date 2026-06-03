@@ -14,7 +14,7 @@ The MPU9250 reads pitch angle via sensor fusion. A PID controller calculates the
 ## Tech Stack
 - STM32 Bare-Metal (SPI, PWM, TIM)
 - C
-- - Keil uVision
+-  Keil uVision
 
 ## Demo
 [Watch demo video](f5013b8a-f2be-4281-9500-684aee6aa372.mp4)
