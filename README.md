@@ -12,9 +12,9 @@ A self-balancing robot built with STM32 and MPU9250, using a real-time PID contr
 The MPU9250 reads pitch angle via sensor fusion. A PID controller calculates the correction needed and generates PWM signals to the motors to maintain balance and reject disturbances in real time.
 
 ## Tech Stack
-- STM32 HAL (SPI, PWM, TIM)
+- STM32 Bare-Metal (SPI, PWM, TIM)
 - C
-- STM32CubeIDE / Keil
+- - Keil uVision
 
 ## Demo
-[Add photo or video here]
+[Watch demo video](f5013b8a-f2be-4281-9500-684aee6aa372.mp4)
